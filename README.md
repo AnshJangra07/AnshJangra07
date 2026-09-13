@@ -51,24 +51,10 @@ and model training to APIs, AI applications and deployment**.
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,mongodb"> </p> <p> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"> <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"> </p>
 
 ## 🚀 Featured Projects
-#### 🇺🇸 US Visa Prediction System
-An end-to-end Machine Learning project designed to predict US visa
-application outcomes.
-Key areas: Data Ingestion • Data Validation • Data Transformation •
-Model Training • Evaluation • MongoDB • MLOps
-🔗 View Project
-
 #### 🛡️ Phishing Classifier
 Machine Learning system for detecting potentially malicious URLs using
 feature engineering and classification techniques.
 Key areas: EDA • Feature Engineering • Classification • Model Evaluation
-🔗 View Project
-
-#### 👥 Customer Categorization System
-Machine Learning project focused on customer categorization with
-exploratory data analysis, model comparison and optimization.
-Key areas: EDA • ML • XGBoost • Hyperparameter Tuning
-🔗 View Project
 
 #### 📚 RAG Document Chatbot
 A Retrieval-Augmented Generation application that allows users to
