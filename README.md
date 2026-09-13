@@ -40,7 +40,7 @@ and model training to APIs, AI applications and deployment**.
 └── Production-ready AI Systems
 ```
 
-🧠 What I Work With
+## 🧠 What I Work With
 🤖 AI / Machine Learning
 <p> <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep_Learning-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Generative_AI-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/RAG-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Agentic_AI-102230?style=for-the-badge"> </p>
 🐍 Languages & Data
@@ -50,49 +50,37 @@ and model training to APIs, AI applications and deployment**.
 ⚙️ MLOps & Tools
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,mongodb"> </p> <p> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"> <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"> </p>
 
-🚀 Featured Projects
-🇺🇸 US Visa Prediction System
-
+## 🚀 Featured Projects
+#### 🇺🇸 US Visa Prediction System
 An end-to-end Machine Learning project designed to predict US visa
 application outcomes.
-
 Key areas: Data Ingestion • Data Validation • Data Transformation •
 Model Training • Evaluation • MongoDB • MLOps
-
 🔗 View Project
 
-🛡️ Phishing Classifier
-
+#### 🛡️ Phishing Classifier
 Machine Learning system for detecting potentially malicious URLs using
 feature engineering and classification techniques.
-
 Key areas: EDA • Feature Engineering • Classification • Model Evaluation
-
 🔗 View Project
 
-👥 Customer Categorization System
-
+#### 👥 Customer Categorization System
 Machine Learning project focused on customer categorization with
 exploratory data analysis, model comparison and optimization.
-
 Key areas: EDA • ML • XGBoost • Hyperparameter Tuning
-
 🔗 View Project
 
-📚 RAG Document Chatbot
-
+#### 📚 RAG Document Chatbot
 A Retrieval-Augmented Generation application that allows users to
 interact with information retrieved from documents.
-
 Key areas: RAG • Embeddings • Vector Search • LLMs • LangChain
 
-🤖 Agentic AI Applications
-
+#### 🤖 Agentic AI Applications
 Exploring intelligent AI agents capable of reasoning, tool usage and
 multi-step workflows.
-
 Key areas: LangGraph • Tool Calling • MCP • Agent Workflows
 
+```
 🛠️ What I'm Building
 🔹 Production-oriented ML pipelines
 🔹 RAG-based applications
@@ -101,8 +89,8 @@ Key areas: LangGraph • Tool Calling • MCP • Agent Workflows
 🔹 ML APIs using FastAPI
 🔹 Deployable ML systems
 🔹 MLOps workflows with MLflow & Docker
+```
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnshJangra07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshJangra07&layout=compact&theme=transparent&hide_border=true" height="170"/> </div>
 🔥 Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=AnshJangra07&theme=transparent&hide_border=true" /> </div>
 📈 Contribution Activity
@@ -123,4 +111,4 @@ reliable, scalable and production-ready.
 
 ⭐ Thanks for visiting my profile!
 
-</div> ```
+</div> 
