@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ansh Jangra 👋
 
-<!--
-**AnshJangra07/AnshJangra07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | GenAI & Agentic AI
 
-Here are some ideas to get you started:
+I'm a B.Tech CSE (AI/ML) student passionate about building
+production-ready AI and Machine Learning systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Python
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG
+- LangChain
+- LangGraph
+- FastAPI
+- MLflow
+- Docker
+- MongoDB
+- Git & GitHub
+
+## 🔥 Featured Projects
+
+- 🎯 US Visa Prediction System
+- 🛡️ Phishing URL Classifier
+- 👥 Customer Categorization System
+- 📚 RAG Document Chatbot
+- 🤖 Agentic AI Applications
+- ⚙️ ML/MLOps Pipelines
+
+## 📚 Currently Learning
+
+- Agentic AI
+- Advanced RAG
+- LLM Application Development
+- MLOps
+- Model Deployment
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- GitHub
