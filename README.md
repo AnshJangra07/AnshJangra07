@@ -93,8 +93,7 @@ Key areas: LangGraph • Tool Calling • MCP • Agent Workflows
 
 🔥 Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=AnshJangra07&theme=transparent&hide_border=true" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshJangra07&theme=github-compact&hide_border=true" /> </div>
+
 🎯 Career Focus
 
 I'm currently looking for opportunities where I can work on:
