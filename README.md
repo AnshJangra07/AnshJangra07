@@ -1,99 +1,172 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Ansh Jangra 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ansh+Jangra;AI+Engineer+in+the+Making;Machine+Learning+%7C+Generative+AI;Building+RAG+%26+Agentic+AI+Systems" alt="Typing SVG" />
+</a>
 
-### AI/ML Engineer • Generative AI • Agentic AI • MLOps
+### AI Engineer · Machine Learning · Generative AI · Agentic AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;MLOps+%7C+FastAPI+%7C+Docker;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+*Turning ideas into practical AI applications.*
 
-<p>
-  <a href="https://github.com/AnshJangra07">
-    <img src="https://img.shields.io/github/followers/AnshJangra07?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/AnshJangra07?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ansh-jangra-72999b165) · [GitHub](https://github.com/AnshJangra07) · [Explore My Projects](https://github.com/AnshJangra07?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **B.Tech CSE (AI/ML) student** passionate about building practical
-and production-oriented Artificial Intelligence systems.
+I'm a Computer Science engineering student specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent applications that solve real-world problems.
 
-My journey started with **Python and Machine Learning**, and I'm currently
-focused on **Generative AI, RAG, Agentic AI and MLOps**.
+My interests span traditional machine learning, deep learning, and modern LLM-powered systems. I'm particularly focused on **Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI**.
 
-I enjoy working on projects that go beyond notebooks — from **data pipelines
-and model training to APIs, AI applications and deployment**.
+- Building end-to-end machine learning and deep learning projects.
+- Exploring LLM applications, embeddings, vector search, and retrieval pipelines.
+- Developing agentic workflows with LangChain and LangGraph.
+- Learning how to make AI systems more reliable through evaluation, guardrails, observability, and deployment.
 
-```text
-🎯 Current Focus
-├── Machine Learning & Deep Learning
-├── Generative AI & LLM Applications
-├── Retrieval-Augmented Generation (RAG)
-├── Agentic AI & LangGraph
-├── MLOps & Model Deployment
-└── Production-ready AI Systems
-```
+**My goal:** grow into an AI Engineer who can design, build, evaluate, and deploy reliable AI systems.
 
-## 🧠 What I Work With
-🤖 AI / Machine Learning
-<p> <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Deep_Learning-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Generative_AI-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/RAG-102230?style=for-the-badge"> <img src="https://img.shields.io/badge/Agentic_AI-102230?style=for-the-badge"> </p>
-🐍 Languages & Data
-<p> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib"> </p>
-🧩 Frameworks & Libraries
-<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi"> </p> <p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"> </p>
-⚙️ MLOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=docker,git,github,mongodb"> </p> <p> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"> <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"> </p>
+## Tech Stack
 
-## 🚀 Featured Projects
-#### 🛡️ Phishing Classifier
-Machine Learning system for detecting potentially malicious URLs using
-feature engineering and classification techniques.
-Key areas: EDA • Feature Engineering • Classification • Model Evaluation
-
-#### 📚 RAG Document Chatbot
-A Retrieval-Augmented Generation application that allows users to
-interact with information retrieved from documents.
-Key areas: RAG • Embeddings • Vector Search • LLMs • LangChain
-
-#### 🤖 Agentic AI Applications
-Exploring intelligent AI agents capable of reasoning, tool usage and
-multi-step workflows.
-Key areas: LangGraph • Tool Calling • MCP • Agent Workflows
-
-```
-🛠️ What I'm Building
-🔹 Production-oriented ML pipelines
-🔹 RAG-based applications
-🔹 Agentic AI workflows
-🔹 LLM-powered applications
-🔹 ML APIs using FastAPI
-🔹 Deployable ML systems
-🔹 MLOps workflows with MLflow & Docker
-```
-
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=AnshJangra07&theme=transparent&hide_border=true" /> </div>
-
-🎯 Career Focus
-
-I'm currently looking for opportunities where I can work on:
-
-AI Engineering • Machine Learning • Generative AI • Agentic AI • MLOps
-
-I'm especially interested in building AI systems that are
-reliable, scalable and production-ready.
-
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/ansh-jangra-72999b165"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/AnshJangra07"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
 <div align="center">
-💡 "Build. Learn. Deploy. Repeat."
 
-⭐ Thanks for visiting my profile!
+**Languages & Data**
 
-</div> 
+<img src="https://skillicons.dev/icons?i=python,git,github,mongodb,docker" alt="Python, Git, GitHub, MongoDB, Docker" />
+
+**Machine Learning & Deep Learning**
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+**Generative AI & Agentic Systems**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
+
+**Backend & APIs**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs" />
+
+</div>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Enterprise Agentic RAG
+
+A modular RAG application focused on document ingestion, retrieval, and agentic workflows for knowledge-intensive tasks.
+
+**Areas:** RAG · Vector Search · LangChain · LangGraph · Guardrails
+
+[View Repository →](https://github.com/AnshJangra07/Enterprise-Grade-Agentic-RAG-Applications)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · Agentic AI
+
+An AI-agent project exploring LLM-driven workflows, structured outputs, tool use, and guardrails.
+
+**Areas:** AI Agents · LLM Orchestration · Tool Calling · Workflow Design
+
+[View Repository →](https://github.com/AnshJangra07/Agentic-AI-Project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Lung Disease Diagnosis
+
+A deep learning project that classifies lung diseases from chest X-ray images.
+
+**Areas:** Computer Vision · Deep Learning · PyTorch · Model Evaluation
+
+[View Repository →](https://github.com/AnshJangra07/Lungs-Disease-Diagnosis-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · US Visa Prediction
+
+An end-to-end machine learning project for predicting visa application outcomes using structured data.
+
+**Areas:** Data Preprocessing · Feature Engineering · Classification · ML Pipelines
+
+[View Repository →](https://github.com/AnshJangra07/US-Visa-ML-Project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 · Spam Detection
+
+A text-classification project that identifies spam messages using traditional machine learning techniques.
+
+**Areas:** NLP · TF-IDF · Scikit-learn · Classification
+
+[View Repository →](https://github.com/AnshJangra07/Spam-Detection-ML-Project)
+
+</td>
+<td width="50%" valign="top">
+
+### What I'm Exploring Next
+
+Deepening my understanding of production-grade AI systems, from embedding and retrieval quality to evaluation and safe agent execution.
+
+**Focus:** Embeddings · Reranking · LLM Evaluation · Security · MLOps
+
+[Explore All Repositories →](https://github.com/AnshJangra07?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## Current Focus
+
+| Area | What I'm working to strengthen |
+|---|---|
+| Machine Learning | Feature engineering, model selection, evaluation, and reliable pipelines |
+| Deep Learning | Neural networks, computer vision, and practical model development |
+| Generative AI | LLM fundamentals, embeddings, prompting, and structured outputs |
+| RAG Engineering | Chunking, vector search, retrieval quality, reranking, and evaluation |
+| Agentic AI | Tool calling, workflow orchestration, state management, and failure handling |
+| Production AI | FastAPI, testing, observability, guardrails, and deployment |
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnshJangra07&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshJangra07&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Most used languages" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=AnshJangra07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+</div>
+
+## Connect With Me
+
+I'm interested in AI engineering, ML/DL, Generative AI, Agentic AI, and collaborating on useful technical projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh_Jangra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-jangra-72999b165)
+[![GitHub](https://img.shields.io/badge/GitHub-AnshJangra07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshJangra07)
+
+*Build thoughtfully. Evaluate rigorously. Keep learning.*
+
+</div>
