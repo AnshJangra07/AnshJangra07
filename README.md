@@ -34,23 +34,139 @@ I'm focused on building practical AI systems that go beyond experimentation — 
 - Learning to develop reliable AI applications with APIs, vector databases, and MLOps tools
 - Improving my understanding of AI system design, evaluation, and production deployment
 
-```python
-class AnshJangra:
-    def __init__(self):
-        self.role = "Aspiring AI Engineer"
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Agentic AI",
-            "RAG Systems",
-            "MLOps",
-        ]
-        self.current_focus = "Building better AI applications"
 
-    def say_hi(self):
-        return "Let's build something intelligent."
-```
+---
+## ⚡ Tech Stack & Skills
+
+### 👨‍💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supervised%20Learning-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unsupervised%20Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-7C3AED?style=for-the-badge" />
+</p>
+
+### 🧠 Deep Learning & Computer Vision
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Image%20Classification-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-6C63FF?style=for-the-badge" />
+</p>
+
+### 📊 Data Analysis & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-6C63FF?style=for-the-badge" />
+</p>
+
+### 📝 NLP & Text Processing
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TF--IDF-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Classification-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tokenization-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge" />
+</p>
+
+### ✨ Generative AI & LLMs
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Context%20Engineering-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Model%20Inference-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Structured%20Outputs-6C63FF?style=for-the-badge" />
+</p>
+
+### 🦜 LangChain, LangGraph & Agentic AI
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Function%20Calling-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow%20Orchestration-6C63FF?style=for-the-badge" />
+</p>
+
+### 🔎 RAG & Vector Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advanced%20RAG-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Document%20Ingestion-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrieval%20Reranking-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chunking%20Strategies-6C63FF?style=for-the-badge" />
+</p>
+
+### 🛡️ AI Security & Guardrails
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Guardrails-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Injection%20Defense-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Query%20Classification-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic-0F766E?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Output%20Validation-6C63FF?style=for-the-badge" />
+</p>
+
+### ⚙️ MLOps & Model Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Serving-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experiment%20Tracking-0F766E?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+</p>
+
+### ☁️ Cloud, Developer Tools & Monitoring
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logfire-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangSmith-0B7285?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20%26%20CLI-222222?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+### 📚 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG%20Evaluation-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Observability-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Voice%20Agents-0891B2?style=for-the-badge" />
+</p>
 
 ---
 
@@ -146,40 +262,6 @@ Currently deepening my understanding of:
 </table>
 
 ---
-
-## `> tech_stack`
-
-**Languages & data**
-
-![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=22D3EE)
-![SQL](https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-![NumPy](https://img.shields.io/badge/NumPy-0B1020?style=for-the-badge&logo=numpy&logoColor=22D3EE)
-![Pandas](https://img.shields.io/badge/Pandas-0B1020?style=for-the-badge&logo=pandas&logoColor=A78BFA)
-
-**Machine Learning & Deep Learning**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B1020?style=for-the-badge&logo=pytorch&logoColor=F97316)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1020?style=for-the-badge&logo=tensorflow&logoColor=F59E0B)
-
-**Generative AI & Agentic AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-0B1020?style=for-the-badge&logo=chainlink&logoColor=22D3EE)
-![LangGraph](https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logo=graphql&logoColor=A78BFA)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0B1020?style=for-the-badge&logo=huggingface&logoColor=FBBF24)
-![RAG](https://img.shields.io/badge/RAG%20Systems-0B1020?style=for-the-badge&logo=databricks&logoColor=22D3EE)
-![Qdrant](https://img.shields.io/badge/Qdrant-0B1020?style=for-the-badge&logo=qdrant&logoColor=F87171)
-
-**Backend, databases & tooling**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1020?style=for-the-badge&logo=mongodb&logoColor=4ADE80)
-![Docker](https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F97316)
-![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
----
-
 ## `> github_analytics`
 
 <div align="center">
@@ -197,40 +279,5 @@ Currently deepening my understanding of:
 
 <br/>
 
-### Contribution graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshJangra07&bg_color=050816&color=C4B5FD&line=22D3EE&point=A78BFA&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## `> contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnshJangra07/AnshJangra07/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
-
-## `> connect`
-
-Interested in AI engineering, GenAI applications, Agentic AI, and meaningful collaboration.
-
-<a href="https://www.linkedin.com/in/ansh-jangra-72999b165">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://github.com/AnshJangra07">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0B1020?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Follow on GitHub"/>
-</a>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,55:5B21B6,100:050816" width="100%" alt="Neon cyan and purple footer"/>
-
-<sub>Building. Learning. Iterating. One intelligent system at a time.</sub>
-
-</div>
 
