@@ -81,13 +81,13 @@ A selection of my AI/ML projects and current engineering work.
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/AnshJangra07/Enterprise-Grade-Agentic-RAG-Applications">Enterprise-Grade Agentic RAG</a>
+### <a href="https://github.com/AnshJangra07/Agentic-RAG-Application">Agentic RAG Project</a>
 
 A modular RAG application focused on document ingestion, embeddings, vector search, retrieval, and LLM-powered responses.
 
 **Areas:** RAG · LangChain · LangGraph · Qdrant · FastAPI
 
-<a href="https://github.com/AnshJangra07/Enterprise-Grade-Agentic-RAG-Applications">
+<a href="https://github.com/AnshJangra07/Agentic-RAG-Application">
   <img src="https://img.shields.io/badge/Explore-22D3EE?style=flat-square&logo=github&logoColor=0B1020" alt="Explore repository"/>
 </a>
 
